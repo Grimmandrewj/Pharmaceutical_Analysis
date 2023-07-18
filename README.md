@@ -10,7 +10,7 @@
 - Pie charts were generated to show the percentage of male vs. female mice
 - The quartiles of final tumor volumes and outliers were calculated and charted in a box plot, and jthe average tumor volume by weight was demonstrated on a scatter plot, on which the correlation between the data was finally calculated
 
-## Results
+## Summary and Results
 - Capomulin was shown to be the most effective drug regimen with similar results to a competing regimen: Ramicane: 
 
 ![image](https://user-images.githubusercontent.com/120341249/216242995-af3c1d73-8315-47df-a95e-8382a29bf524.png)
